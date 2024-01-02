@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#55ddff;stop-opacity:1"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="4"
+       y1="12"
+       x2="12"
+       y2="4"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter13"
+       x="0"
+       y="0"
+       width="1"
+       height="1.1666667">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.329412"
+         flood-color="rgb(0,0,0)"
+         id="feFlood12" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.000000"
+         id="feGaussianBlur12" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.500000"
+         id="feOffset12" />
+      <feComposite
+         result="comp1"
+         operator="out"
+         in="flood"
+         in2="offset"
+         id="feComposite12" />
+      <feComposite
+         result="comp2"
+         operator="atop"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite13" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter13-2"
+       x="0"
+       y="0"
+       width="1"
+       height="1.1666667">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.329412"
+         flood-color="rgb(0,0,0)"
+         id="feFlood12-3" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="0.000000"
+         id="feGaussianBlur12-9" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.500000"
+         id="feOffset12-9" />
+      <feComposite
+         result="comp1"
+         operator="out"
+         in="flood"
+         in2="offset"
+         id="feComposite12-7" />
+      <feComposite
+         result="comp2"
+         operator="atop"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite13-0" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="fill:url(#linearGradient5);stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="path4"
+       cx="8"
+       cy="8"
+       r="8" />
+    <path
+       style="fill:#ffffff;stroke-width:0.603806;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 4.6666666,3 h 4.6666668 c 0,0 2.3333336,0 2.3333336,2.5 0,2.5 -2.3333336,2.5 -2.3333336,2.5 0,0 2.3333336,0 2.3333336,2.5 0,2.5 -2.3333336,2.5 -2.3333336,2.5 H 4.6666666 Z"
+       id="path5" />
+    <path
+       style="fill:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter13)"
+       d="M 6,4 V 7 H 9 C 9,7 10,7 10,6 10,5 10,5 10,5 10,5 10,4 9,4 8,4 6,4 6,4 Z"
+       id="path6" />
+    <path
+       style="fill:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;filter:url(#filter13-2)"
+       d="m 6,9 v 3 h 3 c 0,0 1,0 1,-1 0,-1 0,-1 0,-1 C 10,10 10,9 9,9 8,9 6,9 6,9 Z"
+       id="path6-9" />
+  </g>
+</svg>
